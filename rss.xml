@@ -4,8 +4,15 @@
         <description><![CDATA[Ocsprey]]></description>
         <link>https://thegrid.ai/ocsprey/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jul 2016 15:06:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2016 15:09:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ocsprey/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[::pp-labs::]]></title>
+            <description><![CDATA[<article><h1>::pp-labs::</h1><p>PPTC (Producing & Performance ToolChain) by pp-labs is designed to capture your creativity in Ableton Live and bring some of those funky moments of producing & performing music under effortless control.</p><img src="http://pp-labs.net/wp/wp-content/uploads/2015/11/vision2.jpg"></article>]]></description>
+            <link>http://pp-labs.net/wp/vision/</link>
+            <guid isPermaLink="false">0b05e775-1f4c-4710-9523-a1efb77e134e</guid>
+            <pubDate>Wed, 13 Jul 2016 15:08:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Audiobus Forum]]></title>
             <description><![CDATA[<article><h1>Audiobus Forum</h1><p>Discussion forum for Audiobus, the app-to-app audio platform for iOS and anything related to mobile music.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8f9b8b813d857059fd79e9be8280dbe4/noop.png?input=https%3A%2F%2Fforum.audiob.us%2Fuploads%2Floopy.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://midimux.com/</link>
             <guid isPermaLink="false">9c011c1f-2776-429b-b487-644cf6dcc623</guid>
             <pubDate>Wed, 13 Jul 2016 14:55:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LaunchControl XXL - Isotonik Studios]]></title>
-            <description><![CDATA[<article><h1>LaunchControl XXL - Isotonik Studios</h1><p>Produced by Sigabort the LaunchControl XXL Remote script doesn't require Max4Live, when used in conjunction with the LaunchControl XL you'll find all the standard functionality with two new User Modes and a key enhancement...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ea4698a0076bde7cc60457fd41d352b3/croprotate.jpg?cropheight=737&cropwidth=2614&degrees=0&input=http%3A%2F%2Fisotonikstudios.com%2Fwp-content%2Fuploads%2F2015%2F04%2Fsigabort-novation-launchcontrol-xl-control-surface-script-ableton-live-send-control.jpg&x=0&y=0"></article>]]></description>
-            <link>http://isotonikstudios.com/sigabort/launchcontrol-xxl/</link>
-            <guid isPermaLink="false">c0629dff-c8d3-42e5-a0ea-8e31e80acd39</guid>
-            <pubDate>Wed, 13 Jul 2016 14:55:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
