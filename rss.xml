@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Ocsprey]]></title>
         <description><![CDATA[Ocsprey]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ocsprey/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jul 2016 14:55:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Jul 2016 14:55:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ocsprey/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Patterning : Drum Machine]]></title>
+            <description><![CDATA[<article><h1>Patterning : Drum Machine</h1><p>Create dynamic drum patterns with the swipe of a finger. Make evolving, poly-metric rhythms, four-on-the-floor dance party jams, or laid back R&B grooves. Use Patterning's independent loop settings to explore untapped rhythmic possibilities. Automate parameters to create intricate & complex beats. Arrange patterns on the timeline to construct songs.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1764a8b9b0bce85360fef3137e8f698b/noop.png?input=http%3A%2F%2Fwww.olympianoiseco.com%2Fsite%2Fassets%2Ffiles%2F1072%2Ficon_rounded_512.600x0.png"></article>]]></description>
+            <link>http://www.olympianoiseco.com/apps/patterning/</link>
+            <guid isPermaLink="false">8c4a1ed3-bfbf-4566-852c-0b412bfe87e3</guid>
+            <pubDate>Wed, 13 Jul 2016 14:55:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[SynthMaster 2.8 is now 35% OFF! Voted 'Best VST AU Synth' of 2016 by MusicRadar readers!]]></title>
             <description><![CDATA[<article><h1>SynthMaster 2.8 is now 35% OFF! Voted 'Best VST AU Synth' of 2016 by MusicRadar readers!</h1><p>SynthMaster is an award-winning software synthesizer by KV331 Audio, available in VST AU and AAX formats. It ranked number 2 in MusicRadar's 'Best VST/AU Synth in the World' poll in 2015</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f3f4cc2ee32a1ca115db68b0c2c5df69/noop.png?input=http%3A%2F%2Fwww.kv331audio.com%2Fimages%2Fscreenshots%2FSynthMasterPlayerIPadHeader.png"></article>]]></description>
