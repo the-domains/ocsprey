@@ -4,8 +4,15 @@
         <description><![CDATA[Ocsprey]]></description>
         <link>https://thegrid.ai/ocsprey/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jul 2016 14:55:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2016 14:55:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ocsprey/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Arturia - Overview]]></title>
+            <description><![CDATA[<article><h1>Arturia - Overview</h1><p>iSpark is an all-inclusive beat-making solution allowing to create rich tracks from A to Z. It includes a large variety of drum kits and individual instruments based on the most renowned drum machines and top-notch sound design. iSpark allows you to play drum patterns in-real time and to tweak your sound on-the-fly.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9c08d3cd85dd536fc4c311fc744c23d5/noop.jpg?input=https%3A%2F%2Fwww.arturia.com%2Fimages%2Fproducts%2Fispark%2FMain.jpg"></article>]]></description>
+            <link>https://www.arturia.com/products/ipad-synths/ispark/overview</link>
+            <guid isPermaLink="false">c4eaef70-c24d-4a72-ad26-b0abb56395ad</guid>
+            <pubDate>Wed, 13 Jul 2016 14:55:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fugue Machine]]></title>
             <description><![CDATA[<article><h1>Fugue Machine</h1><p>BACH IN A BOX. FUGUE MACHINE is a tool inspired by composition techniques used in Baroque music and Serialism - e.g. Bach's canons and fugues, and Schoenberg's twelve-tone technique. The idea was to design a tool to manipulate a melody's speed, direction, and pitch, as well as play multiple variations of the melody simultaneously.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/57dba2db2f04368574f1b074bf04fdd5/noop.png?input=https%3A%2F%2Fi0.wp.com%2Falexandernaut.files.wordpress.com%2F2015%2F08%2Ffuguemachine_black_background.png%3Ffit%3D440%252C330%26ssl%3D1"></article>]]></description>
