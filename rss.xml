@@ -4,8 +4,15 @@
         <description><![CDATA[Ocsprey]]></description>
         <link>https://thegrid.ai/ocsprey/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jul 2016 14:55:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2016 14:55:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ocsprey/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fugue Machine]]></title>
+            <description><![CDATA[<article><h1>Fugue Machine</h1><p>BACH IN A BOX. FUGUE MACHINE is a tool inspired by composition techniques used in Baroque music and Serialism - e.g. Bach's canons and fugues, and Schoenberg's twelve-tone technique. The idea was to design a tool to manipulate a melody's speed, direction, and pitch, as well as play multiple variations of the melody simultaneously.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/57dba2db2f04368574f1b074bf04fdd5/noop.png?input=https%3A%2F%2Fi0.wp.com%2Falexandernaut.files.wordpress.com%2F2015%2F08%2Ffuguemachine_black_background.png%3Ffit%3D440%252C330%26ssl%3D1"></article>]]></description>
+            <link>https://alexandernaut.com/fuguemachine/</link>
+            <guid isPermaLink="false">be92561e-f726-45eb-828f-001142018dec</guid>
+            <pubDate>Wed, 13 Jul 2016 14:55:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Blocs for iOS - iPad & iPhone apps for making music]]></title>
             <description><![CDATA[<article><h1>Blocs for iOS - iPad & iPhone apps for making music</h1><p>Blocs for iOS - iPhone & iPad apps - make and record music</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fae3e2e64072be80610de15640cfbca3/noop.jpg?input=http%3A%2F%2Fblocs.cc%2Fimg%2Fvideo_poster.jpg"></article>]]></description>
