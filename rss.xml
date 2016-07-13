@@ -4,8 +4,15 @@
         <description><![CDATA[Ocsprey]]></description>
         <link>https://thegrid.ai/ocsprey/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jul 2016 14:56:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2016 14:56:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ocsprey/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Audiobus Forum]]></title>
+            <description><![CDATA[<article><h1>Audiobus Forum</h1><p>Discussion forum for Audiobus, the app-to-app audio platform for iOS and anything related to mobile music.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8f9b8b813d857059fd79e9be8280dbe4/noop.png?input=https%3A%2F%2Fforum.audiob.us%2Fuploads%2Floopy.png"></article>]]></description>
+            <link>https://forum.audiob.us/</link>
+            <guid isPermaLink="false">a3a3a6eb-161b-4479-b873-22cc61e6ea2c</guid>
+            <pubDate>Wed, 13 Jul 2016 14:55:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ocsprey]]></title>
             <description><![CDATA[<article><h1>Ocsprey</h1><p>Words & Sounds</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c0ce29f5e33ba1de94676425d72e0cde/noop?input=https%3A%2F%2Fsecure.gravatar.com%2Fblavatar%2Fab79742cf9af0ba679abbcee4f77e508%3Fs%3D200%26ts%3D1468420992"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://isotonikstudios.com/sigabort/isotonik-preditor/</link>
             <guid isPermaLink="false">eb68d1b3-aedc-4115-bda6-0624b252dea3</guid>
             <pubDate>Wed, 13 Jul 2016 14:55:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MIDI MultiClip Editor - Isotonik Studios]]></title>
-            <description><![CDATA[<article><h1>MIDI MultiClip Editor - Isotonik Studios</h1><p>If you've ever wished that you could edit multiple MIDI clips at the same time just by selecting them and seeing their piano rolls combined, well now you can! Welcome to MultiClip, a MaxforLive device that allows you to edit multiple MIDI clips in Ableton Live simultaneously in the same window!</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d0240461c62b28e281cecae66f478e1c/croprotate.jpg?cropheight=591&cropwidth=2088&degrees=0&input=http%3A%2F%2Fisotonikstudios.com%2Fwp-content%2Fuploads%2F2016%2F05%2Fchaos_culture_maxforlive_MIDI_multiclip_editor.jpg&x=0&y=0"></article>]]></description>
-            <link>http://isotonikstudios.com/chaos-culture/midi-multiclip-editor/</link>
-            <guid isPermaLink="false">f361ce23-e8c5-429d-b89d-f5e4eeafcaf9</guid>
-            <pubDate>Wed, 13 Jul 2016 14:55:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
