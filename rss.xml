@@ -4,15 +4,8 @@
         <description><![CDATA[Ocsprey]]></description>
         <link>https://thegrid.ai/ocsprey/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jul 2016 14:56:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2016 14:56:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ocsprey/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[AUM]]></title>
-            <description><![CDATA[<article><h1>AUM</h1><p>AUM is the flexible audio mixer, recorder, and connection hub for your iPad, iPhone and iPod touch. Connect hardware inputs and outputs, Audio Unit extensions, Inter-App Audio apps, Audiobus, soundfile players, built-in signal processing and filters, in any configuration you want. Route anything to anywhere with mix-busses, effect sends, audiobus ports, and external multi-channel audio interfaces.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/95a5db937b25a5ba788ffcec46509692/noop.png?input=http%3A%2F%2Fkymatica.com%2Fuploads%2FSoftware%2Faum_screenshot_small.png"></article>]]></description>
-            <link>http://kymatica.com/Software/AUM</link>
-            <guid isPermaLink="false">f2073716-3c49-43af-a30d-0950bbad9f20</guid>
-            <pubDate>Wed, 13 Jul 2016 14:55:44 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[zMors the iOS synthesizer for iPad]]></title>
             <description><![CDATA[<article><h1>zMors the iOS synthesizer for iPad</h1><p>Limited Promo Code: Get this app for free when buying an expert sleepers ES-3! Send us your invoice as copy to info(at)zmors.de and get the code for zmors modular ipad app. Using them both together requires a class compilant USB interface and an apple CCK. zMors modular is a modular synthesizer.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3c4b9c9fbc25eb3e4474ea7cb655d765/noop.png?input=http%3A%2F%2Fwww.zmors.de%2Fwp-content%2Fuploads%2F2014%2F10%2FzMors_bg_01-150x150.png"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>https://www.arturia.com/products/ipad-synths/ispark/overview</link>
             <guid isPermaLink="false">c4eaef70-c24d-4a72-ad26-b0abb56395ad</guid>
             <pubDate>Wed, 13 Jul 2016 14:55:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fugue Machine]]></title>
+            <description><![CDATA[<article><h1>Fugue Machine</h1><p>BACH IN A BOX. FUGUE MACHINE is a tool inspired by composition techniques used in Baroque music and Serialism - e.g. Bach's canons and fugues, and Schoenberg's twelve-tone technique. The idea was to design a tool to manipulate a melody's speed, direction, and pitch, as well as play multiple variations of the melody simultaneously.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/57dba2db2f04368574f1b074bf04fdd5/noop.png?input=https%3A%2F%2Fi0.wp.com%2Falexandernaut.files.wordpress.com%2F2015%2F08%2Ffuguemachine_black_background.png%3Ffit%3D440%252C330%26ssl%3D1"></article>]]></description>
+            <link>https://alexandernaut.com/fuguemachine/</link>
+            <guid isPermaLink="false">be92561e-f726-45eb-828f-001142018dec</guid>
+            <pubDate>Wed, 13 Jul 2016 14:55:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
