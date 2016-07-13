@@ -4,22 +4,8 @@
         <description><![CDATA[Ocsprey]]></description>
         <link>https://thegrid.ai/ocsprey/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jul 2016 14:56:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2016 14:55:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ocsprey/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[zMors the iOS synthesizer for iPad]]></title>
-            <description><![CDATA[<article><h1>zMors the iOS synthesizer for iPad</h1><p>Limited Promo Code: Get this app for free when buying an expert sleepers ES-3! Send us your invoice as copy to info(at)zmors.de and get the code for zmors modular ipad app. Using them both together requires a class compilant USB interface and an apple CCK. zMors modular is a modular synthesizer.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3c4b9c9fbc25eb3e4474ea7cb655d765/noop.png?input=http%3A%2F%2Fwww.zmors.de%2Fwp-content%2Fuploads%2F2014%2F10%2FzMors_bg_01-150x150.png"></article>]]></description>
-            <link>http://www.zmors.de/zmors-modular/</link>
-            <guid isPermaLink="false">ed543122-c4fe-4b69-86e0-9a1d3c0b3dd7</guid>
-            <pubDate>Wed, 13 Jul 2016 14:55:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MIDI Routing and Monitoring for iPhone and iPad (iOS)]]></title>
-            <description><![CDATA[<article><h1>MIDI Routing and Monitoring for iPhone and iPad (iOS)</h1><p>Midiflow allows you to send MIDI from app to app in a similar way to what you already do with audio. That way, you can sync apps with each other or send MIDI parts from a sequencer app to different synth apps.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/85f247f471b4f9b50b32fb7599961f5d/noop.jpg?input=http%3A%2F%2Fwww.midiflow.com%2Fimages%2Fteaser4.jpg"></article>]]></description>
-            <link>http://www.midiflow.com/</link>
-            <guid isPermaLink="false">490cf983-df64-4593-acae-5704fd258785</guid>
-            <pubDate>Wed, 13 Jul 2016 14:55:42 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Moebius Lab]]></title>
             <description><![CDATA[<article><h1>Moebius Lab</h1><p>Moebius Lab is a multimorphic sound processor which contains a synth, a varispeed stereo sample player, 9 time domain effects, 6 spectral effects, 7 slots for external audio application, and nearly 200 LFOs that can modulate each parameter. You can move the effects along two chains, and get endless combinations of incredible sounds.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b9e49456de115dd30c3459b3791fc8b9/croprotate.jpg?cropheight=300&cropwidth=480&degrees=0&input=http%3A%2F%2Fapps.amazingnoises.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fmoebius.jpg&x=16&y=0"></article>]]></description>
@@ -75,6 +61,20 @@
             <link>https://alexandernaut.com/fuguemachine/</link>
             <guid isPermaLink="false">be92561e-f726-45eb-828f-001142018dec</guid>
             <pubDate>Wed, 13 Jul 2016 14:55:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blocs for iOS - iPad & iPhone apps for making music]]></title>
+            <description><![CDATA[<article><h1>Blocs for iOS - iPad & iPhone apps for making music</h1><p>Blocs for iOS - iPhone & iPad apps - make and record music</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fae3e2e64072be80610de15640cfbca3/noop.jpg?input=http%3A%2F%2Fblocs.cc%2Fimg%2Fvideo_poster.jpg"></article>]]></description>
+            <link>http://blocs.cc/</link>
+            <guid isPermaLink="false">b0a596a4-50c9-406c-a560-840d67bf163e</guid>
+            <pubDate>Wed, 13 Jul 2016 14:55:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Launchpad for iOS - iPad & iPhone app for making music]]></title>
+            <description><![CDATA[<article><h1>Launchpad for iOS - iPad & iPhone app for making music</h1><p>Launchpad for iOS is an iPhone & iPhone app for making and remixing music</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/50564652067c8329ed3f0f8e8c8748e2/noop.jpg?input=http%3A%2F%2Flaunchpadforios.com%2Fimg%2F02_04_r%402x.jpg"></article>]]></description>
+            <link>http://launchpadforios.com/</link>
+            <guid isPermaLink="false">d4545a56-6a12-4a30-9b4f-c9962391b7ec</guid>
+            <pubDate>Wed, 13 Jul 2016 14:55:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
