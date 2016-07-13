@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ocsprey]]></title>
+        <description><![CDATA[Ocsprey]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 13 Jul 2016 14:55:22 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SynthMaster 2.8 is now 35% OFF! Voted 'Best VST AU Synth' of 2016 by MusicRadar readers!]]></title>
+            <description><![CDATA[<article><h1>SynthMaster 2.8 is now 35% OFF! Voted 'Best VST AU Synth' of 2016 by MusicRadar readers!</h1><p>SynthMaster is an award-winning software synthesizer by KV331 Audio, available in VST AU and AAX formats. It ranked number 2 in MusicRadar's 'Best VST/AU Synth in the World' poll in 2015</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f3f4cc2ee32a1ca115db68b0c2c5df69/noop.png?input=http%3A%2F%2Fwww.kv331audio.com%2Fimages%2Fscreenshots%2FSynthMasterPlayerIPadHeader.png"></article>]]></description>
+            <link>http://www.kv331audio.com/synthmasterplayerios.aspx</link>
+            <guid isPermaLink="false">c2aa890e-8966-4546-a870-1d0857c34811</guid>
+            <pubDate>Wed, 13 Jul 2016 14:55:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
